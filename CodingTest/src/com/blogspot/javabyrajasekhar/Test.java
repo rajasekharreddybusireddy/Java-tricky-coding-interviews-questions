@@ -7,6 +7,7 @@ public class Test {
 	}
 }
 
+
 class A {
 
 	public void nullcheck(Object o) {
